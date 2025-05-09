@@ -59,5 +59,16 @@ return {
         Button = "#52525b",
         Icon = "#a1a1aa",
     },
+    Steel = {
+    Name = "Steel",
+    Accent = "#6b7280",         -- Cool steel gray
+    Outline = "#d4d4d8",        -- Light silver for edges
+    Text = "#e4e4e7",           -- Slightly off-white for readability
+    Placeholder = "#9ca3af",    -- Muted placeholder tone
+    Background = "#1f2937",     -- Dark slate background
+    Button = "#374151",         -- Darker button shade
+    Icon = "#9ca3af",           -- Neutral icon shade matching logo
+},
+
     
 }
